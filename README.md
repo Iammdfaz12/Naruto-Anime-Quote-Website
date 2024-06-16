@@ -1,2 +1,2 @@
 # Naruto-Anime-Quote-Website
-This is only for practice purpose.
+I did this for practicing CSS.
